@@ -1,0 +1,4 @@
+name = "Embed A View"
+description = "A simple Ajax embedded view example"
+core = 7.x
+files[] = embedaview.module

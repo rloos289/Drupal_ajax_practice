@@ -1,0 +1,4 @@
+name = "Random Article"
+description = "A simple Ajax random Article render"
+core = 7.x
+files[] = random_article.module
